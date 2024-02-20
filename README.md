@@ -15,7 +15,7 @@ Terceiro passo:
   - A aplicação estará disponível na porta `3000`.
 
 Acesso:
-  - teste@gmail.com
+  - teste@teste.com
   - 123
 
 # Linguagens e frameworks utilizados
