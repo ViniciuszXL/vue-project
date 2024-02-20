@@ -21,6 +21,7 @@ Acesso:
 # Linguagens e frameworks utilizados
 
 - Node.js
+- MySQL
 - Vue.js
 - Vuetify
 - Vue Router
@@ -29,5 +30,4 @@ Acesso:
 - Express
 - Jest
 - JWT
-- MySQL
 - TypeORM
