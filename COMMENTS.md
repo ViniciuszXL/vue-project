@@ -16,6 +16,6 @@ Deixando em containers Docker, eu poderia escalar o serviço de backend utilizan
 
 4. Quais requisitos obrigatórios que não foram entregues
 
-Acredito eu que nenhum. Mesmo tendo a dificuldade de não saber Vue.js, eu fui atrás para que eu pudesse entregar um projeto adequado e ao que estava proposto no desafio. Tive algumas dificuldades de principiantes, mas com algumas pesquisas no Google, consegui além de sanar essas dificuldades, tive um rápido entendimento sobre o Vue.js para que eu pudesse prosseguir sozinho sem o auxilio do Google. 
+Acredito eu que somente a documentação da API. Queria ter feito em Swagger, mas como o tempo estava curto, não dei continuidade com a documentação e mesmo não sendo obrigatório, fiz os testes das rotas com o Jest. E também tendo a dificuldade de não saber Vue.js, eu fui atrás para que eu pudesse entregar um projeto adequado e ao que estava proposto no desafio. Tive algumas dificuldades de principiantes, mas com algumas pesquisas no Google, consegui além de sanar essas dificuldades, tive um rápido entendimento sobre o Vue.js para que eu pudesse prosseguir sozinho sem o auxilio do Google. 
 
 Foi um bom desafio para testar minha capacidade de aprendizado em um curto espaço de tempo. E, além disso, também tive uns contra-tempos nesse final de semana que passou, e só consegui iniciar a criação do projeto no Domingo pela manhã. Então basicamente tive menos de dois dias para que o projeto ficasse pronto à tempo.
