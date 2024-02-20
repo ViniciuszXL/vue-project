@@ -5,6 +5,8 @@ Olá! Bem-vindos. Esse é o projeto feito através do desafio me repassado. É u
 
 # Como inicializar o projeto
 
+OBS: É necessário que você tenha um banco de dados em sua máquina antes de iniciar o projeto de `backend`. Há algumas configurações que você necessita fazer no projeto `backend` em `/common/environment.js`.
+
 Primeiro passo:
   - Vá até a pasta `frontend`, e rode o comando `npm install` e `yarn dev` para que a aplicação seja inicializada.
 
