@@ -16,6 +16,10 @@ Segundo passo:
 Terceiro passo:
   - A aplicação estará disponível na porta `3000`.
 
+Acesso:
+  - teste@gmail.com
+  - 123
+
 # Linguagens e frameworks utilizados
 
 - Node.js
