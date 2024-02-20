@@ -1,5 +1,5 @@
 ## Vue-Project
-# Desafio Growdev (Edtech)
+# Desafio Edtech
 
 Olá! Bem-vindos. Esse é o projeto feito através do desafio me repassado. É um projeto simples que consiste em três telas mais ou menos. No projeto, é nos dado o desafio de criar um painel simples, para visualização de alunos, edição, remoção e cadastramento.
 
