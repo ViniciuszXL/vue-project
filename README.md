@@ -5,8 +5,6 @@ Olá! Bem-vindos. Esse é o projeto feito através do desafio me repassado. É u
 
 # Como inicializar o projeto
 
-Foi feito um docker-compose.yml que subirá todo o projeto na máquina de vocês. A única coisa necessária para tal, é a presença do Docker instalado.
-
 Primeiro passo:
   - Vá até a pasta `frontend`, e rode o comando `npm install` e `yarn dev` para que a aplicação seja inicializada.
 
